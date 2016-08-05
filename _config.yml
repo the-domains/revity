@@ -1,0 +1,14 @@
+layout_spectrum: 0.29756091558374465
+typography_spectrum: 0.8790109483525157
+color:
+  brandStrength: 0.4122428251430392
+  lightness: 0.7747885708231479
+  saturation: 0.4017384313046932
+  rhythmicContrast: 0.4663381853606552
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Revity
